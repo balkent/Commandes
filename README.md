@@ -13,3 +13,12 @@ GIT
 - git merge: Fusionner les branches. 
 - git rebase: Réappliquer les commits d’une autre branche 
 - git clone: cloner un dépôt distant. 
+
+
+VIM 
+
+- ‘:w’ = write 
+- ‘:q’ = quit 
+- ‘!’ = force 
+- ‘:wq’ = write + quit 
+- ‘:wq!’ = write + quit + force 
